@@ -1,0 +1,51 @@
+body 
+{
+    direction:rtl;
+}
+body{background-image:url(../pic/mam.jpg)}
+h1{ font-size:40px;
+    color:palevioletred;
+    font-weight:bold;
+    padding-right:14px
+   
+}
+h2{font-size:20px;
+   color:palevioletred;
+   font-weight:bold;
+   padding-right:14px
+
+}
+
+h3 {
+    font-size: 20px;
+    color: palevioletred;
+    font-weight: bold;
+    padding-right: 14px;
+}
+p{padding-right: 14px;
+  font-size:20px
+
+}
+a{padding-right: 14px;
+
+ 
+}
+ul {
+    list-style: upper-roman
+       ;
+
+}
+#container {
+    background-image: url(/pic/me.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position-x: left;
+    background-position-y: center;
+}
+
+<h>
+               
+           
+           
+
+           
